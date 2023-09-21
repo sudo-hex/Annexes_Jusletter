@@ -1,6 +1,6 @@
 # Annexes Jusletter
 
-Vous trouverez ici les matrices d'analyses MITRE ATT&CK qui ont étés utilisées pour l'étude de mesures de sécurité appropriées pour le droit suisse.
+Vous trouverez ici les matrices d'analyses MITRE ATT&CK qui ont étés utilisées pour l'étude de mesures de sécurité appropriées pour le droit suisse. Disponible sous le lien suivant : {ADD LINK WHEN GO LIVE} 
 
 Ci-dessous une version visuelle de la méthodologie MITRE utilisée afin de récolter les techniques employées par les maliciels.
 
